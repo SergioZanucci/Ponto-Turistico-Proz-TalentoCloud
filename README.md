@@ -6,3 +6,4 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
  2. A página precisa ter imagens; 
  3. Use a tag de semântica textual inline.
 
+![Ponto Turistico - Google Chrome 05_10_2023 14_22_23](https://github.com/SergioZanucci/Ponto-Turistico-Proz-TalentoCloud/assets/102690327/d5ce6ef0-4e9d-443f-993d-9e0461f915ff)
