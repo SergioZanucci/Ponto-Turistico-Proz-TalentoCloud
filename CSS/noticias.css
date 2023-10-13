@@ -6,6 +6,7 @@
 body {
     background: gray;
 }
+
 header {
     background: darkgray;
     display: flex;
@@ -28,26 +29,27 @@ li, a {
     text-transform: uppercase;
 }
 
-.container {
+main {
     background: darkgray;
-    display: flex;
     flex-wrap: wrap;
-    font-family: poppins;
+    font-family: "poppins";
     font-weight: 700;
     align-items: center;
     gap: 20px;
     padding: 10px 10px;
-
 }
 
-h1 {
-    text-align: center;
-    text-transform: uppercase;
+.container__titulo {
     font-size: 34px;
 }
 
+.container__ponto__turistico {
+    font-size: 34px;
+    text-transform: uppercase;
+}
+
 img {
-    width: 100%;
+    width: 50%;
 }
 
 p {
@@ -60,5 +62,3 @@ p {
     font-family: "poppins";
     font-weight: 400;
 }
-
-
